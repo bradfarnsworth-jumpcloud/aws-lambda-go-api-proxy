@@ -1,4 +1,4 @@
-module github.com/bradfarnsworth-jumpcloud/aws-lambda-go-api-proxy v0.13.2-BSF-fork
+module github.com/bradfarnsworth-jumpcloud/aws-lambda-go-api-proxy v0.13.2-BSF-fork121
 
 go 1.14
 
